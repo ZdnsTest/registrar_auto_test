@@ -1,0 +1,2 @@
+# registrar_auto_test
+registrar_auto_test_project
